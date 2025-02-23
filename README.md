@@ -45,7 +45,7 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 
 - All contributors are most welcome! This is definitely open source!
 - View the [`CONTRIBUTING.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
-- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTORS.md) file!
+- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/VaibhavRai21) file!
 
 ## *WEBSITE DEMO*
 
@@ -60,4 +60,4 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 # *Author*
 
 * Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+  - [LinkedIn](https://www.linkedin.com/in/vaibhav-rai-21e10d04b/)
